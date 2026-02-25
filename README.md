@@ -34,33 +34,6 @@ Data Structures & Algorithms, OOP, Database Design, System Architecture
 
 ---
 
-## 🏢 Experience
-
-### 🏢 Software Engineer Trainee — Brain Station 23 PLC
-- Developed scalable backend services using C# and .NET
-- Optimized SQL database schemas
-- Implemented Docker containerization
-- Followed clean architecture & best practices
-
-### 👨‍🏫 Competitive Programming Trainer — East West University
-- Teaching advanced algorithms & problem solving
-- Mentoring teams for national contests
-
----
-
-## 📂 Featured Projects
-
-### 🔹 BrainHub (Enterprise Web Application)
-Tech: .NET 9, Docker, PostgreSQL
-- Designed scalable layered architecture
-- Implemented Role-Based Access Control (RBAC)
-- Integrated PostgreSQL with Entity Framework Core
-
-🔗 Project Link:
-https://github.com/sagorahmedmunna/BrainHub-Web-App
-
----
-
 ## 🏆 Competitive Programming Profiles
 
 - Codeforces: https://codeforces.com/profile/sagorahmedmunna
@@ -79,8 +52,6 @@ https://github.com/sagorahmedmunna/BrainHub-Web-App
 
 📧 Email: sagorahmedmunna@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/sagorahmedmunna
-🐙 GitHub: https://github.com/sagorahmedmunna
-
 ---
 
 ⭐ Always open to collaboration, backend development opportunities, and competitive programming discussions.
