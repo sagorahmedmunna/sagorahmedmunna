@@ -50,8 +50,8 @@ Data Structures & Algorithms, OOP, Database Design, System Architecture
 
 ## 📫 Contact Me
 
-📧 Email: sagorahmedmunna@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/sagorahmedmunna
+- 📧 Email: sagorahmedmunna@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/sagorahmedmunna
 ---
 
 ⭐ Always open to collaboration, backend development opportunities, and competitive programming discussions.
